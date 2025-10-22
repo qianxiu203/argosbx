@@ -5,7 +5,7 @@
 <img width="757" height="255" alt="d89e2542c513e705106371acc7fa1d33" src="https://github.com/user-attachments/assets/7d7a4678-4223-478c-afe2-d303ba0f85a4" />
 
 
-### 【Argosbx当前版本：V25.9.29】
+### 【Argosbx当前版本：V25.10.5】
 
 ---------------------------------------
 
@@ -15,7 +15,7 @@
 
 #### 3、支持Docker镜像部署，公开镜像库：```ygkkk/argosbx```
 
-#### 4、支持NIX容器系统，特别推荐[IDX-Google](https://idx.google.com/)、[Clawcloud爪云](https://run.claw.cloud)、[CloudCat](https://cloud.cloudcat.one)、[Sap](https://www.sap.com/products/technology-platform/trial.html)
+#### 4、支持NIX容器系统，特别推荐[IDX-Google](https://idx.google.com/)、[Clawcloud爪云](https://run.claw.cloud)、[CloudCat](https://cloud.cloudcat.one)、[Sap](https://github.com/yonggekkk/argosbx/blob/main/SAP.md)
 
 #### 5、根据Sing-box与Xray不同内核，可选15种WARP出站组合，更换落地IP为WARP的IP，解锁流媒体
 
@@ -65,7 +65,7 @@
 <img width="869" height="602" alt="25d8af7b9b43d49d84ed84826600bebb" src="https://github.com/user-attachments/assets/739e4e86-8326-4c80-861d-5726c7f96481" />
 
 * #### 如下图：节点IP、端口被封依旧可用！套CDN优选4大方案：[点击视频教程](https://youtu.be/RnUT1CNbCr8)
-* #### 目前vless-xhttp-v也支持CDN优选的方案一与二，端口变量vxpt
+* #### 目前vless-xhttp-v也支持CDN优选的方案1与2，端口变量vxpt
 
 <img width="1559" height="783" alt="42ecee8deeccdb808abcd635440eca30" src="https://github.com/user-attachments/assets/0938a398-9037-49a7-b08e-db5a6d65301c" />
 
@@ -199,7 +199,9 @@ vxpt="80系端口、指定回源端口" cdnym="CF解析IP的域名" bash <(curl 
 
 更新中……
 
-最新推荐：[ArgoSBX一键无交互小钢炮脚本💣（四）：一键SSH命令生成器发布，只要点几下，各大代理协议任你选](https://youtu.be/4u6W4c-t3oU)
+最新推荐：[🔥SAP搭建免费节点一条龙教程：多平台多账号搭建+保活一次搞定，支持Argo/workers/pags多种CDN方式](https://youtu.be/NRYZNKWoLj8)
+
+[ArgoSBX一键无交互小钢炮脚本💣（四）：一键SSH命令生成器发布，只要点几下，各大代理协议任你选](https://youtu.be/4u6W4c-t3oU)
 
 [ArgoSB一键无交互小钢炮脚本💣（三）：内置15种WARP出站组合，轻松替代独立的WARP脚本](https://youtu.be/iywjT8fIka4)
 
@@ -212,16 +214,6 @@ vxpt="80系端口、指定回源端口" cdnym="CF解析IP的域名" bash <(curl 
 [Claw.cloud免费VPS搭建代理最终教程（五）：ArgoSB脚本docker镜像更新支持AnyTLS、Xhttp-Reality](https://youtu.be/-mhZIhHRyno)
 
 [Claw.cloud免费VPS搭建代理最终教程（四）：最低仅1美分，4套价格+7组协议的套餐组合任你选；查看节点、重启升级、更换IP、更改配置的操作说明](https://youtu.be/xOQV_E1-C84)
-
-[Claw.cloud免费VPS搭建代理最终教程（三）：ArgoSB全能docker镜像发布，支持网页实时更新节点；TCP/UDP直连协议设置客户端"CDN"免墙域名](https://youtu.be/JEXyj9UoMzU)
-
-[Claw.cloud免费VPS搭建代理最终教程（二）：最低仅需2美分；支持Argo | Reality | Vmess | Hysteria2 | Tuic代理协议任意组合](https://youtu.be/NnuMgnJqon8)
-
-[Claw.cloud免费VPS搭建代理最终教程（一）：全网最简单 | 两大无交互回车脚本 | 套CDN优选IP | workers反代 | ArgoSB隧道搭建](https://youtu.be/Esofirx8xrE)
-
-[IDX Google免费VPS代理搭建教程（三）：NIX容器最新工作区方式搭建Argo免费节点 | 一次回车搞定一切 | Argo固定隧道一键复活](https://youtu.be/0I5eI1KKx08)
-
-[IDX Google免费VPS代理搭建教程（四）：支持重置后自动启动代理节点功能 | 最简单的保活方法](https://youtu.be/EGrz6Wvevqc)
 
 ----------------------------------------------------------
 
